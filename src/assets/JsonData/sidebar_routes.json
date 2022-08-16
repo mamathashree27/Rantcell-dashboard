@@ -1,0 +1,52 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Customers",
+        "route": "/customers",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Date and Time",
+        "route": "/date-time",
+        "icon": "bx bx-calendar"
+    },
+    {
+        "display_name": "Android Test Data",
+        "route": "/android-test",
+        "icon": "bx bxl-android"
+    },
+    {
+        "display_name": "iOS Test Data",
+        "route": "/ios-test",
+        "icon": "bx bx-bar-chart-alt"
+    },
+    {
+        "display_name": "Map",
+        "route": "/map",
+        "icon": "bx bxs-map"
+    },
+    {
+        "display_name": "LBS",
+        "route": "/lbs",
+        "icon": "bx bx-map-alt"
+    },
+    {
+        "display_name": "Remote Test",
+        "route": "/remote-test",
+        "icon": "bx bx-laptop"
+    },
+    {
+        "display_name": "Floor plans",
+        "route": "floor-plan",
+        "icon": "bx bxs-home"
+    },
+    {
+        "display_name": "Settings",
+        "route": "settings",
+        "icon": "bx bx-cog"
+    }
+]

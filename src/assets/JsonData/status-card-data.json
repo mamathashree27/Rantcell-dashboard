@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-time",
+        "count": "2254",
+        "title": "Remaining Test Minutes"
+    },
+    {
+        "icon": "bx bx-mobile",
+        "count": "147",
+        "title": "Registered Devices"
+    },
+    {
+        "icon": "bx bx-bar-chart",
+        "count": "5689",
+        "title": "Total Test Conducted"
+    },
+    {
+        "icon": "bx bx-phone",
+        "count": "2931",
+        "title": "Detected Networks"
+    }
+]
